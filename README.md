@@ -56,7 +56,7 @@
 [<img align="left" alt="googlecloud" width="26px" src="https://i.pinimg.com/236x/2c/45/34/2c453428a9dd2325528bc3dfc7f948c5.jpg" />][website]
 
 <br />
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
