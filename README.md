@@ -11,7 +11,7 @@
 
 ### Back End Languages :
 [<img align="left" alt="Python3" width="26px" src="https://i.pinimg.com/236x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" />][website]
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/47987252/94838186-995ae180-03eb-11eb-8b43-7340dd502064.png" />][website]
+[<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/236x/85/44/da/8544dac44077c26e351801c7181a9e12.jpg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="PHP" width="26px" src="https://i.pinimg.com/236x/cd/e1/24/cde124ad6037a985f4cd9b6538c894eb.jpg" />][website]
 [<img align="left" alt="C#" width="26px" src="https://i.pinimg.com/236x/44/4a/92/444a92f08243994d7c33ecbbb97b3898.jpg" />][website]
