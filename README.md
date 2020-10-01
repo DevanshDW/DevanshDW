@@ -1,9 +1,9 @@
 
-### <img align="left" alt="Devansh Patel" width="526px" src="https://user-images.githubusercontent.com/47987252/94840436-ce1c6800-03ee-11eb-8550-0d4bfc948763.png" />
+## <img align="left" alt="Devansh Patel" width="526px" src="https://user-images.githubusercontent.com/47987252/94840436-ce1c6800-03ee-11eb-8550-0d4bfc948763.png" />
 
 
 
-## I'm a Developer!
+### I'm a Developer!
 
 - 🔭 I’m currently working on a [React Project][project]!
 - 🌱 I’m currently learning everything 🤣
