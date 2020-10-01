@@ -10,12 +10,7 @@
 - ⚡ Fun fact: I love to try new things
 
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Devansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Devansh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Devansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -28,7 +23,9 @@
 [<img align="left" alt="c++" width="26px" src="https://i.pinimg.com/236x/0b/84/9c/0b849c72f38362fe12072a4916660013.jpg" />][website]
 [<img align="left" alt="VB" width="26px" src="https://i.pinimg.com/236x/29/9a/7c/299a7ca899b8dfdc92159ea12caa874e.jpg" />][website]
 [<img align="left" alt=".net" width="26px" src="https://i.pinimg.com/236x/ed/54/87/ed5487cdf75aa7ae06e257c2ea143833.jpg" />][website]
+[<img align="left" alt="COBOL" width="26px" src="https://i.pinimg.com/236x/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg" />][website]
 
+<br />
 <br />
 
 ### Front End Languages :
@@ -40,6 +37,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="bootstrap" width="26px" src="https://i.pinimg.com/236x/2f/14/70/2f14706bc2d93675710b13fb77f42c89.jpg" />][website]
 
+<br />
 <br />
 
 ### Environment :
@@ -55,11 +53,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="nigix" width="26px" src="https://i.pinimg.com/236x/ba/19/7f/ba197f094806a73fbe263d82d9444a5c.jpg" />][website]
-[<img align="left" alt="googlecloud" width="26px" src="https://i.pinimg.com/236x/d7/89/5c/d7895c3f9b685e2bd96de8afa1260506.jpg" />][website]
-[<img align="left" alt="COBOL" width="26px" src="https://i.pinimg.com/236x/74/e7/4e/74e74e4f4e2af301ccc1e7cb2435352d.jpg" />][website]
-
+[<img align="left" alt="googlecloud" width="26px" src="https://i.pinimg.com/236x/2c/45/34/2c453428a9dd2325528bc3dfc7f948c5.jpg" />][website]
 
 <br />
+<br />
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Devansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Devansh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Devansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [project]: https://123
 [website]: https://codeSTACKr.com
