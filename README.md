@@ -56,7 +56,6 @@
 
 <br />
 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
