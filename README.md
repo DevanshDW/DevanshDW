@@ -24,9 +24,9 @@
 [<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/236x/cd/9a/c5/cd9ac559b2b900a62bfc45de3bc43584.jpg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 
-[<img align="left" alt="PHP" width="26px" src="" />][website]
+[<img align="left" alt="PHP" width="26px" src="https://i.pinimg.com/236x/cd/e1/24/cde124ad6037a985f4cd9b6538c894eb.jpg" />][website]
 
-[<img align="left" alt="COBOL" width="26px" src="" />][website]
+[<img align="left" alt="COBOL" width="26px" src="https://i.pinimg.com/236x/74/e7/4e/74e74e4f4e2af301ccc1e7cb2435352d.jpg" />][website]
 
 [<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />][website]
 
