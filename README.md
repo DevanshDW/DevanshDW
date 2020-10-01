@@ -28,7 +28,7 @@
 
 [<img align="left" alt="COBOL" width="26px" src="https://i.pinimg.com/236x/74/e7/4e/74e74e4f4e2af301ccc1e7cb2435352d.jpg" />][website]
 
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />][website]
+[<img align="left" alt="C#" width="26px" src="https://i.pinimg.com/236x/44/4a/92/444a92f08243994d7c33ecbbb97b3898.jpg" />][website]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
