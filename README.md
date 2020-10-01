@@ -19,11 +19,7 @@
 
 <br />
 
-### Languages:
-
-
-<br />
-### Tools:
+### Languages and Tools:
 
 
 <br />
