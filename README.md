@@ -15,9 +15,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking an opportunity to work more closely with clients and to start managing projects
 - 🥅 2020 Goals: Contribute to Open Source projects
-<details>
 - ⚡ Fun fact: I love to try new things
-</details>
+
 ### Back End Languages :
 [<img align="left" alt="Python3" width="26px" src="https://i.pinimg.com/236x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" />][website]
 [<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/236x/85/44/da/8544dac44077c26e351801c7181a9e12.jpg" />][website]
