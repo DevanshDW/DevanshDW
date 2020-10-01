@@ -3,7 +3,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [React Project][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking an opportunity to work more closely with clients and to start managing projects
 - 🥅 2020 Goals: Contribute to Open Source projects
@@ -43,7 +43,7 @@
 
 ---
 
-
+[project]: https://123
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/swag_shadow_
 [instagram]: https://www.instagram.com/swag_shadow_devansh/
