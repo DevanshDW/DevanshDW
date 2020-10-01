@@ -3,7 +3,7 @@
 
 
 
-### I'm a Developer!
+## I'm a Developer!
 
 - 🔭 I’m currently working on a [React Project][project]!
 - 🌱 I’m currently learning everything 🤣
