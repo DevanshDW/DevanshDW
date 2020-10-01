@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### Back End Languages :
 [<img align="left" alt="Python3" width="26px" src="https://i.pinimg.com/236x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" />][website]
 [<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/236x/cd/9a/c5/cd9ac559b2b900a62bfc45de3bc43584.jpg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
@@ -29,6 +29,9 @@
 [<img align="left" alt="VB" width="26px" src="https://i.pinimg.com/236x/29/9a/7c/299a7ca899b8dfdc92159ea12caa874e.jpg" />][website]
 [<img align="left" alt=".net" width="26px" src="https://i.pinimg.com/236x/ed/54/87/ed5487cdf75aa7ae06e257c2ea143833.jpg" />][website]
 
+<br />
+
+### Front End Languages :
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="jQuery" width="26px" src="https://i.pinimg.com/236x/33/4f/8f/334f8ff060596922581358afb64c8aaa.jpg" />][website]
 [<img align="left" alt="Angularjs" width="26px" src="https://i.pinimg.com/236x/63/f8/3d/63f83de74ab02bef52cb8c92da82cf54.jpg" />][website]
@@ -37,6 +40,9 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="bootstrap" width="26px" src="https://i.pinimg.com/236x/2f/14/70/2f14706bc2d93675710b13fb77f42c89.jpg" />][website]
 
+<br />
+
+### Environment :
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
