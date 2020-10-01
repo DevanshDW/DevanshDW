@@ -1,5 +1,4 @@
-### Hi there, I'm Devansh - aka [swag shadow][website] 👋
-<img align="left" alt="Python3" width="526px" src="https://user-images.githubusercontent.com/47987252/94840436-ce1c6800-03ee-11eb-8550-0d4bfc948763.png" />
+<img align="left" alt="Devansh Patel" width="726px" src="https://user-images.githubusercontent.com/47987252/94840436-ce1c6800-03ee-11eb-8550-0d4bfc948763.png" />
 <br />
 
 ## I'm a Developer!
