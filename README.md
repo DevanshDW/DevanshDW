@@ -12,15 +12,15 @@
 - ⚡ Fun fact: I love to try new things
 
 ### Back End Languages :
-[<img align="left" alt="Python3" width="46px" src="https://i.pinimg.com/236x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" />][website]
-[<img align="left" alt="Java" width="46px" src="https://i.pinimg.com/236x/85/44/da/8544dac44077c26e351801c7181a9e12.jpg" />][website]
-[<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="PHP" width="46px" src="https://i.pinimg.com/236x/cd/e1/24/cde124ad6037a985f4cd9b6538c894eb.jpg" />][website]
-[<img align="left" alt="C#" width="46px" src="https://i.pinimg.com/236x/44/4a/92/444a92f08243994d7c33ecbbb97b3898.jpg" />][website]
-[<img align="left" alt="c++" width="46px" src="https://i.pinimg.com/236x/0b/84/9c/0b849c72f38362fe12072a4916660013.jpg" />][website]
-[<img align="left" alt="VB" width="46px" src="https://i.pinimg.com/236x/29/9a/7c/299a7ca899b8dfdc92159ea12caa874e.jpg" />][website]
-[<img align="left" alt=".net" width="46px" src="https://i.pinimg.com/236x/ed/54/87/ed5487cdf75aa7ae06e257c2ea143833.jpg" />][website]
-[<img align="left" alt="COBOL" width="46px" src="https://i.pinimg.com/236x/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg" />][website]
+[<img align="left" alt="Python3" width="36px" src="https://i.pinimg.com/236x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" />][website]
+[<img align="left" alt="Java" width="36px" src="https://i.pinimg.com/236x/85/44/da/8544dac44077c26e351801c7181a9e12.jpg" />][website]
+[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="PHP" width="36px" src="https://i.pinimg.com/236x/cd/e1/24/cde124ad6037a985f4cd9b6538c894eb.jpg" />][website]
+[<img align="left" alt="C#" width="36px" src="https://i.pinimg.com/236x/44/4a/92/444a92f08243994d7c33ecbbb97b3898.jpg" />][website]
+[<img align="left" alt="c++" width="36px" src="https://i.pinimg.com/236x/0b/84/9c/0b849c72f38362fe12072a4916660013.jpg" />][website]
+[<img align="left" alt="VB" width="36px" src="https://i.pinimg.com/236x/29/9a/7c/299a7ca899b8dfdc92159ea12caa874e.jpg" />][website]
+[<img align="left" alt=".net" width="36px" src="https://i.pinimg.com/236x/ed/54/87/ed5487cdf75aa7ae06e257c2ea143833.jpg" />][website]
+[<img align="left" alt="COBOL" width="36px" src="https://i.pinimg.com/236x/73/22/4f/73224ff83996ff1edc9c3532e965d393.jpg" />][website]
 
 <br />
 <br />
