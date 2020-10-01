@@ -63,7 +63,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Devansh | Email" width="42px" src="https://i.pinimg.com/236x/e7/f0/57/e7f05776010f1024bae750ba59b4ab48.jpg" />][E-mail]
+[<img align="left" alt="Devansh | Email" width="49px" src="https://i.pinimg.com/236x/e7/f0/57/e7f05776010f1024bae750ba59b4ab48.jpg" />][E-mail]
 [<img align="left" alt="Devansh | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Devansh | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Devansh | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
