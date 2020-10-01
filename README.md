@@ -9,11 +9,6 @@
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to try new things
 
-
-
-
-<br />
-
 ### Back End Languages :
 [<img align="left" alt="Python3" width="26px" src="https://i.pinimg.com/236x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" />][website]
 [<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/236x/cd/9a/c5/cd9ac559b2b900a62bfc45de3bc43584.jpg" />][website]
@@ -56,7 +51,7 @@
 [<img align="left" alt="googlecloud" width="26px" src="https://i.pinimg.com/236x/2c/45/34/2c453428a9dd2325528bc3dfc7f948c5.jpg" />][website]
 
 <br />
-
+<br />
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
