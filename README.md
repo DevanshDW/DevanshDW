@@ -5,10 +5,10 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [React Project][project]!
+- 🔭 I’m currently working on a [TypeScript Project][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking an opportunity to work more closely with clients and to start managing projects
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to try new things
 <br />
 
